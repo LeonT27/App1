@@ -12,6 +12,7 @@ namespace App
         {
             Suma suma = new Suma();
             Console.WriteLine(suma.Operacion(1,2));
+            Console.ReadLine();
         }
     }
 
